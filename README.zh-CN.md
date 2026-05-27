@@ -1,5 +1,5 @@
 # 蓝桥杯（BlueBridge Cup）
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | 简体中文
 
 蓝桥杯嵌入式方向竞赛代码仓库。
 
