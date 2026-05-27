@@ -1,7 +1,7 @@
 # 蓝桥杯（BlueBridge Cup）
 蓝桥杯嵌入式方向竞赛代码仓库。
 
-包含 `LCD\GPIO\USART\TIM\IIC\Key\ADC` 等常用外设示例。
+包含 `LCD/GPIO/USART/TIM/IIC/Key/ADC` 等常用外设示例。
 
 按键逻辑可有效消抖，支持单击、双击、长按等输入识别。
 

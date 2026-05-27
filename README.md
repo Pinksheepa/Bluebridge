@@ -1,7 +1,7 @@
 # 蓝桥杯（BlueBridge Cup）
 蓝桥杯嵌入式方向竞赛代码仓库。
 
-包含 `LCD\GPIO\USART\TIM\IIC\Key\ADC` 等常用外设示例。
+包含 `LCD/GPIO/USART/TIM/IIC/Key/ADC` 等常用外设示例。
 
 按键逻辑可有效消抖，支持单击、双击、长按等输入识别。
 
@@ -14,7 +14,7 @@
 ## English
 Repository of embedded code examples for the Lanqiao (BlueBridge Cup) competition.
 
-It includes peripherals such as `LCD\GPIO\USART\TIM\IIC\Key\ADC`.
+It includes peripherals such as `LCD/GPIO/USART/TIM/IIC/Key/ADC`.
 
 The key-processing logic provides debounce support and handles click, double-click, and long-press actions.
 
