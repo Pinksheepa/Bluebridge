@@ -1,5 +1,5 @@
 # 蓝桥杯（BlueBridge Cup）
-English | [简体中文](README.zh-CN.md)
+**English** | [简体中文](README.zh-CN.md)
 
 Repository of embedded code examples for the Lanqiao (BlueBridge Cup) competition.
 
