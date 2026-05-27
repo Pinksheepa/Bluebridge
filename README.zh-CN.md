@@ -10,12 +10,3 @@
 下图为学习思维导图，仅供参考：
 
 ![学习笔记](img/README/笔记.png)
-
-## English
-Repository of embedded code examples for the Lanqiao (BlueBridge Cup) competition.
-
-It includes peripherals such as `LCD\GPIO\USART\TIM\IIC\Key\ADC`.
-
-The key-processing logic provides debounce support and handles click, double-click, and long-press actions.
-
-These examples cover most of the competition outline and were used in practice before winning first prize. Early and repeated practice is strongly recommended.
